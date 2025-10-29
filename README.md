@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Former AI ML Intern at SDSC ISRO | Full Stack Developer at Munitions India Ltd.<br>👩‍💻 MSc Computer Science | AI & Data Enthusiast<br>🎯 Passionate about turning data into intelligent insights and building AI-driven solutions.<br>👯 I’m looking to collaborate on Machine Learning, Data Analytics, and AI Automation projects.<br>🌱 Currently exploring LLMs, LangChain, and Cloud Technologies.<br>⚡ Fun fact – I enjoy solving real-world problems through data and creativity!
+🚀 Former AI ML Intern at SDSC ISRO | Full Stack Developer at Munitions India Ltd.<br>👩‍💻 MSc Computer Science | AI & Data Enthusiast<br>🎯 Passionate about turning data into intelligent insights and building AI-driven solutions.<br>🧠 I’m looking to collaborate on Machine Learning, Data Analytics, and AI Automation projects.<br>🌱 Currently exploring LLMs, LangChain, and Cloud Technologies.<br>⚡ Fun fact – I enjoy solving real-world problems through data and creativity!
 
 
 ## 🌐 Socials:
